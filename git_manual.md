@@ -66,3 +66,11 @@ Git хранит свои файлы и историю прямо в папке 
 4. Compsre Changes - показать и сравнить изменения
 
 ## Полезные ссылки
+
+[Git](https://git-scm.com/)
+
+[VS Code](https://code.visualstudio.com/)
+
+[С. Чакон, Б. Штауб. Git для профессионального программиста](https://gbcdn.mrgcdn.ru/uploads/asset/4245110/attachment/d4eb8c232f8f2bdf4e42ba7cb49e0c50.pdf)
+
+[Git для начинающих](https://gb.ru/posts/soveti-pro-git)
