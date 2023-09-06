@@ -74,3 +74,5 @@ Git хранит свои файлы и историю прямо в папке 
 [С. Чакон, Б. Штауб. Git для профессионального программиста](https://gbcdn.mrgcdn.ru/uploads/asset/4245110/attachment/d4eb8c232f8f2bdf4e42ba7cb49e0c50.pdf)
 
 [Git для начинающих](https://gb.ru/posts/soveti-pro-git)
+
+[Инструкция по подготовке системы контроля версий Git](https://fir-dead-aeb.notion.site/Git-7251e6ce25634c81be2e89cccff9252c)
